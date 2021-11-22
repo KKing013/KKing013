@@ -10,5 +10,4 @@ Skills: PHP / LARAVEL / VUE JS / ALPINE JS / JS / HTML / CSS / MYSQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KKing013)  
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKing013)](https://github.com/anuraghazra/github-readme-stats)
