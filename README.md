@@ -5,7 +5,7 @@ I'm Kevin from Cape Town, South Africa. I'm a developer who currently specialize
 Skills: PHP / LARAVEL / JAVASCRIPT / VUE JS / ALPINE JS / HTML / CSS / SQL
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React  
+  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KKing013)  
